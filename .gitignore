@@ -1,0 +1,41 @@
+#python
+pycache/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+env/
+venv/
+ENV/
+.venv/
+#Ide 
+.vscode/
+.idea/
+*.swp
+*.swo
+#os
+.DS_Store
+Thumbs.db
+#data files
+*.csv
+*.parquet
+*.hudi
+#logs
+*.log
+logs/
+#local configuration 
+.env
+docker-compose.override.yml
+# Airflow
+airflow_home/
+# Virtual environment
+.venv/
+# Logs
+logs/
+airflow_home/logs/
+# Spark
+spark-warehouse/
+# IDE
+.vscode/
+.idea/
