@@ -124,7 +124,7 @@ university-data-platform/
 **Prérequis :** Docker Desktop (Windows/macOS) ou Docker Engine (Linux). Rien d'autre.
 
 ```bash
-git clone <ton-repo>
+git clone https://github.com/fsouida1-ux/university-data-platform.git
 cd university-data-platform
 
 cp .env.example .env
